@@ -1,0 +1,19 @@
+{
+  "name": "lucsedirae",
+  "version": "1.0.0",
+  "description": "Library of personal helper functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucsedirae/helper-library.git"
+  },
+  "author": "Jon Deavers",
+  "license": "GNU3",
+  "bugs": {
+    "url": "https://github.com/lucsedirae/helper-library/issues"
+  },
+  "homepage": "https://github.com/lucsedirae/helper-library#readme"
+}
